@@ -641,7 +641,7 @@ import json
 import time
 
 # Paramètres
-API_KEY_FRESHWORK = '1oRGrwUiQnGdbaYDwVIo5A'
+API_KEY_FRESHWORK = *************
 DOMAIN_FRESHWORK = 'institutadios'
 BASE_URL = f'https://{DOMAIN_FRESHWORK}.myfreshworks.com/crm/sales/'
 BATCH_SIZE = 700  # Taille du lot
@@ -876,7 +876,7 @@ import time
 
 BATCH_SIZE = 700  # Taille du lot
 SLEEP_TIME = 3600  # Temps d'attente entre les lots (en secondes)
-API_KEY_FRESHWORK = 'clé api'
+API_KEY_FRESHWORK = *************
 DOMAIN_FRESHWORK = 'institutadios'
 BASE_URL = f'https://{DOMAIN_FRESHWORK}.myfreshworks.com/crm/sales/'
 
@@ -1405,7 +1405,7 @@ import pandas as pd
 import requests
 import time
 
-url = "https://institutadios.bitrix24.fr/rest/1/tfs4ck7sh7t99wk2/"
+url = "https://institutadios.bitrix24.fr/rest/1/"
 
 data_list = []
 
@@ -1540,7 +1540,7 @@ import time
 
 BATCH_SIZE = 500  # Taille du lot
 SLEEP_TIME = 3600  # Temps d'attente entre les lots (en secondes)
-API_KEY_FRESHWORK = '*******'
+API_KEY_FRESHWORK = *************
 DOMAIN_FRESHWORK = 'institutadios'
 BASE_URL = f'https://{DOMAIN_FRESHWORK}.myfreshworks.com/crm/sales/'
 
